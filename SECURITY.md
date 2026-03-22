@@ -18,6 +18,6 @@ site or server — please report it privately before opening a public issue.
 
 **Contact**: Open a private security advisory via
 [GitHub Security Advisories](https://github.com/arturseo-geo/wordpress-skill/security/advisories/new)
-or reach out directly via [X @TheGEO_Lab](https://x.com/TheGEO_Lab).
+or email **artur@thegeolab.net**, or reach out via [X @TheGEO_Lab](https://x.com/TheGEO_Lab).
 
 We aim to address valid reports within 48 hours.
