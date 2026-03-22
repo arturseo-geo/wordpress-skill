@@ -1,6 +1,6 @@
 # wordpress-skill
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GeoLab](https://thegeolab.net)**
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
 > [X @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
@@ -83,7 +83,7 @@ Use the issue templates for:
 
 ## Attributions & Licence
 
-Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GeoLab](https://thegeolab.net)**.
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**.
 
 ### Best Practice Attribution
 
